@@ -1,1 +1,1 @@
-nbreport/templates
+include nbreport/templates/*.tpl
