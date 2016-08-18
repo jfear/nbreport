@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='nbreport',
-      version='0.1.2beta',
+      version='0.1.2b1',
       description='Basic Jupyter Notebook HTML template for generating reports.',
       url='',
       author='Justin Fear',
